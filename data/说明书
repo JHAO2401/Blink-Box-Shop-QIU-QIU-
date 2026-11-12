@@ -1,0 +1,15 @@
+开folder按this pc → 点os → 点xampp → 找htdocs → 放shop file
+
+=================================================================
+
+localhost\shop\fake_admin_register.php 
+把这个link 丢去网页开然后register admin account
+
+
+
+===================================================================
+1）去xampp ，按new 开一个file 叫msystem_db
+2）丢data先,再丢insert
+
+
+

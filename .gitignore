@@ -1,0 +1,19 @@
+# PHP / Composer
+/vendor/
+composer.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Uploads / data (may contain user uploads or local DB)
+data/uploads/
